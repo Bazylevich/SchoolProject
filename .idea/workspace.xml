@@ -1,20 +1,138 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cc1b1aa4-c852-4842-8f53-4d9e47b13cbc" name="Changes" comment="" />
+    <list default="true" id="cc1b1aa4-c852-4842-8f53-4d9e47b13cbc" name="Changes" comment="New project SchoolProject">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/junit.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/itstep/vika/javalessons/lesson22/model/logic/SchoolManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/by/itstep/vika/javalessons/lesson22/model/logic/SchoolManagerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SchoolProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SchoolProject.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2BDEgorI27qTJGLnOjkJuwiUeSW" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "D:/vika/junit",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
+  <component name="RunManager" selected="JUnit.SchoolManagerTest (2)">
+    <configuration name="SchoolManagerTest (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SchoolProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.itstep.vika.javalessons.lesson22.model.logic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="by.itstep.vika.javalessons.lesson22.model.logic" />
+      <option name="MAIN_CLASS_NAME" value="by.itstep.vika.javalessons.lesson22.model.logic.SchoolManagerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SchoolManagerTest.testCalculateAvgMarkPositive" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SchoolProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.itstep.vika.javalessons.lesson22.model.logic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="by.itstep.vika.javalessons.lesson22.model.logic" />
+      <option name="MAIN_CLASS_NAME" value="by.itstep.vika.javalessons.lesson22.model.logic.SchoolManagerTest" />
+      <option name="METHOD_NAME" value="testCalculateAvgMarkPositive" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SchoolManagerTest.testFindBadStudentGroupsPositive" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SchoolProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.itstep.vika.javalessons.lesson22.model.logic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="by.itstep.vika.javalessons.lesson22.model.logic" />
+      <option name="MAIN_CLASS_NAME" value="by.itstep.vika.javalessons.lesson22.model.logic.SchoolManagerTest" />
+      <option name="METHOD_NAME" value="testFindBadStudentGroupsPositive" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SchoolManagerTest.testFindBedStudentGroupsPositive" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SchoolProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.itstep.vika.javalessons.lesson22.model.logic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="by.itstep.vika.javalessons.lesson22.model.logic" />
+      <option name="MAIN_CLASS_NAME" value="by.itstep.vika.javalessons.lesson22.model.logic.SchoolManagerTest" />
+      <option name="METHOD_NAME" value="testFindBedStudentGroupsPositive" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SchoolManagerTest.testFindGroupsWithoutBadStudentPositive" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SchoolProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.itstep.vika.javalessons.lesson22.model.logic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="by.itstep.vika.javalessons.lesson22.model.logic" />
+      <option name="MAIN_CLASS_NAME" value="by.itstep.vika.javalessons.lesson22.model.logic.SchoolManagerTest" />
+      <option name="METHOD_NAME" value="testFindGroupsWithoutBadStudentPositive" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SchoolManagerTest (2)" />
+        <item itemvalue="JUnit.SchoolManagerTest.testCalculateAvgMarkPositive" />
+        <item itemvalue="JUnit.SchoolManagerTest.testFindBadStudentGroupsPositive" />
+        <item itemvalue="JUnit.SchoolManagerTest.testFindBedStudentGroupsPositive" />
+        <item itemvalue="JUnit.SchoolManagerTest.testFindGroupsWithoutBadStudentPositive" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -24,6 +142,14 @@
       <option name="presentableId" value="Default" />
       <updated>1656432372537</updated>
     </task>
+    <task id="LOCAL-00001" summary="New project SchoolProject">
+      <created>1656432717987</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1656432717987</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -36,5 +162,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="New project SchoolProject" />
+    <option name="LAST_COMMIT_MESSAGE" value="New project SchoolProject" />
   </component>
 </project>
